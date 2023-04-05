@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383792017101",
+    "firebase_url": "https://sort-ball-color-master-default-rtdb.firebaseio.com",
+    "project_id": "sort-ball-color-master",
+    "storage_bucket": "sort-ball-color-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383792017101:android:2e41d85f5d9869c255c384",
+        "android_client_info": {
+          "package_name": "easygame.ball.sort.color.master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383792017101-5o2si7kq53pqihsq7r0b4r21l9hk5fs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuy6hP_L6otR3gZwrScjy2Gmdn4BSvA4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383792017101-5o2si7kq53pqihsq7r0b4r21l9hk5fs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
